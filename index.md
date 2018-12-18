@@ -46,7 +46,7 @@ Observations:<br>
 
 
 
-So for Tottenham will go through to the Round of 16 if they are able to match Inter Milan's result against PSV. Now Inter vs PSV 
+So for Tottenham will go through to the Round of 16 if they are able to match Inter Milan's result against PSV. Now Inter vs PSV is an interesting match as form of both the teams complement each other. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

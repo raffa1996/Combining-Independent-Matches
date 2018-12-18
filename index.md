@@ -35,11 +35,12 @@ So the Poisson Distribution Model results for Barca-Spurs game are:
  4 | 1.19 | 2.72 | 3.09 | 2.34 | 1.33 | 0.61
  5 | 0.55 | 1.25 | 1.42 | 1.08 | 0.61 | 0.28
 
-Observati
-BARCELONA 2 - 2 SPURS
-BARCELONA Win Percentage -  38.0
-SPURS Win Percentage -  38.0
-Draw Percentage -  20.0
+Observations:<br>
+Favourable result: BARCELONA 2 - 2 SPURS<br>
+Second Favourable result: BARCELONA 1 - 1 SPURS<br>
+BARCELONA Win Percentage -  38.0<br>
+SPURS Win Percentage -  38.0<br>
+Draw Percentage -  20.0<br>
 
 
 

@@ -14,7 +14,7 @@ So for evaluating Champions League games, I've used Club Elo Ratings which is a 
 So Elo difference is calculated as, 
 
     E = 1 / (10(-dr/400) + 1) 
-   (where dr is the Elo point difference of the 2 clubs)
+(where dr is the Elo point difference of the 2 clubs)
 
 It is directly linked to the win probability of both teams in a direct confrontation. 
 And through this I was able to create a model where I was able to use Poisson Distribution Model and include the net Elo of each team. The reason behind this is to value goal scored and conceded by each team. 
@@ -36,17 +36,17 @@ So the Poisson Distribution Model results for Barca-Spurs game are:
  5 | 0.55 | 1.25 | 1.42 | 1.08 | 0.61 | 0.28
 
 Observations:<br>
-Favourable result: BARCELONA 2 - 2 SPURS<br>
-Second Favourable result: BARCELONA 1 - 1 SPURS<br>
-BARCELONA Win Percentage -  38.0<br>
-SPURS Win Percentage -  38.0<br>
-Draw Percentage -  20.0<br>
+<b>Favourable result</b>: BARCELONA 2 - 2 SPURS<br>
+<b>Second Favourable result</b>: BARCELONA 1 - 1 SPURS<br>
+<b>BARCELONA Win Percentage</b> -  38.0<br>
+<b>SPURS Win Percentage</b> -  38.0<br>
+<b>Draw Percentage</b> -  20.0<br>
 
 
 
 
 
-So for Tottenham to go through the Poisson Distribution of results against Barcelona is
+So for Tottenham will go through to the Round of 16 if they are able to match Inter Milan's result against PSV. Now Inter vs PSV 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

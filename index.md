@@ -20,7 +20,7 @@ It is directly linked to the win probability of both teams in a direct confronta
 And through this I was able to create a model where I was able to use Poisson Distribution Model and include the net Elo of each team. The reason behind this is to value goal scored and conceded by each team. 
 
 <p align="center">
-  <img src = "https://github.com/raffa1996/Combining-Independent-Matches/blob/master/poi%20new.png" 
+  <img src = "https://github.com/raffa1996/Combining-Independent-Matches/blob/master/Asset/poi%20new.png" 
   alt="profilepic"/>
   </p> 
 
